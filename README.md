@@ -1,5 +1,10 @@
 # Polar Express
 
+[![python](https://img.shields.io/badge/python-3.9-3776AB?logo=python)](https://www.python.org/)
+[![tensorflow](https://img.shields.io/badge/tensorflow-2.10.1-FF9100?logo=tensorflow)](https://www.tensorflow.org/)
+[![keras](https://img.shields.io/badge/keras-2.10.1-D00000?logo=keras)](https://keras.io/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prushh/polar-express/blob/main/polar_express.ipynb)
+
 Project for the course "Machine Learning" of the University of Bologna, A.Y. 2021/2022.
 
 ## Assignment
